@@ -64,23 +64,23 @@ This dashboard demonstrates an approach focused on flexibility, scalability, and
 
 ---
 
+---
+
 ## 📸 Dashboard Screenshots
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abssinghal/Customer-Complaitns-Analysis/9dfebd90cc47c660ef537fa7d9f9eece1180f462/MapAll.png" alt="Map All View" width="800"/>
+  <table>
+    <tr>
+      <td><img src="https://raw.githubusercontent.com/abssinghal/Customer-Complaitns-Analysis/9dfebd90cc47c660ef537fa7d9f9eece1180f462/MapAll.png" alt="Map All View" width="400"/></td>
+      <td><img src="https://raw.githubusercontent.com/abssinghal/Customer-Complaitns-Analysis/9dfebd90cc47c660ef537fa7d9f9eece1180f462/MapCreditCard.png" alt="Map Credit Card View" width="400"/></td>
+    </tr>
+    <tr>
+      <td><img src="https://raw.githubusercontent.com/abssinghal/Customer-Complaitns-Analysis/9dfebd90cc47c660ef537fa7d9f9eece1180f462/Tile%20Checking%20Services.png" alt="Tile Checking Services View" width="400"/></td>
+      <td><img src="https://raw.githubusercontent.com/abssinghal/Customer-Complaitns-Analysis/9dfebd90cc47c660ef537fa7d9f9eece1180f462/Tileall.png" alt="Tile All View" width="400"/></td>
+    </tr>
+  </table>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abssinghal/Customer-Complaitns-Analysis/9dfebd90cc47c660ef537fa7d9f9eece1180f462/MapCreditCard.png" alt="Map Credit Card View" width="800"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abssinghal/Customer-Complaitns-Analysis/9dfebd90cc47c660ef537fa7d9f9eece1180f462/Tile%20Checking%20Services.png" alt="Tile Checking Services View" width="800"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abssinghal/Customer-Complaitns-Analysis/9dfebd90cc47c660ef537fa7d9f9eece1180f462/Tileall.png" alt="Tile All View" width="800"/>
-</p>
 
 
 ## 🔗 Interactive Dashboard
