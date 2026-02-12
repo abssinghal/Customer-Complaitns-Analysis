@@ -60,12 +60,6 @@ This dashboard demonstrates an approach focused on flexibility, scalability, and
 
 ---
 
----
-
----
-
----
-
 ## 📸 Dashboard Screenshots
 
 <p align="center">
